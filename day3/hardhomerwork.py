@@ -1,6 +1,7 @@
 from turtle import*
 
 #მთავარი კედელი
+width(3)
 speed(1000)
 begin_fill()
 color("grey")
