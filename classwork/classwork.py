@@ -1,3 +1,3 @@
-num1 = 5
-num2 = "5"
-print(type(num1))
+name = input("pls enter your name:")
+
+print(name)
