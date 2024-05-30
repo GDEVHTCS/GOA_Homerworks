@@ -91,20 +91,4 @@ forward(30)
 left(90)
 forward(60)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 exitonclick()
