@@ -1,0 +1,98 @@
+.mixo{
+    width: 150px;
+    height: 150px;
+    background: url(https://yt3.googleusercontent.com/YTDzjsEAmJWSWv_M8FitdmdUh52ZmjL5NKwaDb--aYj7ZARt5j-21Aj8vGB6Kicf6G9-g_jang=s160-c-k-c0x00ffffff-no-rj);
+    transition: 0.5s;
+
+
+}
+
+.mixo:hover{
+   width: 300px;
+   height: 300px;
+}
+
+.gota{
+    width: 150px;
+    height: 150px;
+    background: url(https://yt3.googleusercontent.com/BLXsiTWgV5e9HoYyMn3sMlc0g52aHkPHRboKnmZuRn3vK7QXLUT9DgNDX7PC4C5gZtjGdP6zKw=s160-c-k-c0x00ffffff-no-rj);
+    transition: 0.5s;
+}
+
+.gota:hover{
+    width: 300px;
+    height: 300px;
+}
+
+.soso{
+    width: 150px;
+    height: 150px;
+    background: url(https://yt3.googleusercontent.com/6KMeXLDhL6eJ1lss-LDQAMMcALnPaHDfe-TiK33PebO0IGI91plGnnJ-hrGG7sZZt47piwuFC78=s160-c-k-c0x00ffffff-no-rj);
+    transition: 0.5s;
+}
+.soso:hover{
+    width: 300px;
+    height: 300px;
+}
+
+.amiko{
+    width: 150px;
+    height: 150px;
+    background:url(https://yt3.googleusercontent.com/ytc/AIdro_kh-fJFaqY0wXCC15-6Fbii67dGpIjws_M_9eJd-cNasOU=s160-c-k-c0x00ffffff-no-rj);
+    transition: 0.5s;
+}
+
+.amiko:hover{
+   width: 300px;
+   height: 300px;
+}
+
+.goletsplay{
+    width: 150px;
+    height: 150px;
+    background:url(https://yt3.googleusercontent.com/ytc/AIdro_n2Rx5bRwH4yMIwRS8GygHosFqTxQJzz-Zm85BKnVpRNI4=s160-c-k-c0x00ffffff-no-rj);
+    transition: 0.5s;
+    
+}
+.goletsplay:hover{
+    width: 300px;
+   height: 300px;
+}
+
+.slender{
+    width: 150px;
+    height: 150px;
+    background:url(https://yt3.googleusercontent.com/kGkdZYHNy3PLhZlQXKqw8Hh2QOFv1B6f-gyg244DSp6Ajqv-ttTMXCJ0SZUR-FY8vBSu3UtUpnQ=s160-c-k-c0x00ffffff-no-rj);
+    transition: 0.5s;
+    
+}
+.slender:hover{
+    width: 300px;
+   height: 300px;
+}
+
+.jortsoft{
+    width: 150px;
+    height: 150px;
+    background:url(https://yt3.googleusercontent.com/l4IxCGvnflvTvNXNk77AqJhfYcW-zKyrAK4-9MoBzUihbRGeKHaNNBx5MK9547O5CXyOopuH=s160-c-k-c0x00ffffff-no-rj);
+    transition: 0.5s;
+    
+}
+.jortsoft:hover{
+    width: 300px;
+   height: 300px;
+}
+
+.nikadev{
+    width: 150px;
+    height: 150px;
+    background:url(https://yt3.googleusercontent.com/VjqqLjrX0z9B_HArHQ1a3zWnL5xqWZuGYnVIk9FwbCFyL1tjW7ZfCB_Vs36DVE3ZDZFej5_XhA=s160-c-k-c0x00ffffff-no-rj);
+    transition: 0.5s;
+    
+}
+.nikadev:hover{
+    width: 300px;
+   height: 300px;
+}
+
+

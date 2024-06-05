@@ -417,17 +417,7 @@ left(90)
 forward(100)
 #აქ დავამთავრე მეორე კედელი
 #აქ ვიწყებ კუბიკებს:პირველი კუბიკი
-begin_fill()
-color("grey")
-left(90)
-forward(30)
-right(90)
-forward(30)
-right(90)
-forward(30)
-right(90)
-forward(30)
-end_fill()
+
 #მეორე კუბიკი
 begin_fill()
 color("grey")
