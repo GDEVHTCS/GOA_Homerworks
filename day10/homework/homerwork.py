@@ -49,4 +49,13 @@ for i in range(5, 11): #5 იდან 10-მე რიცხვები
     product *= i #ნამრავლების გაკეთება
 print("ნამრავლები 5 იდან 10 ის ჩათვლით:", product) #ნამრავლი
 
+#დავალება 0
+word = "hello world"
+reversed_word = ""
+
+for i in range(len(word) - 1, -1, -1):
+    reversed_word += word[i]
+
+print("reversed:", reversed_word)
+
 
