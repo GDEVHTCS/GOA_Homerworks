@@ -1,6 +1,7 @@
 .hp{
     @media screen {
         max-width: 600px;
+        max-height: 5000px;
     width: 350px;
     height: 330px;
     margin-top: 200px;
@@ -11,12 +12,14 @@
 .hptext{
     @media screen {
         max-width: 700px;
+        max-height: 500px;
     margin-top: -330px;
     margin-left: 100px;
 }
 }
 .hpbuy{
     @media screen {
+        max-height: 1000px;
         max-width: 600px;
     margin-top: -60px;
     margin-left: 120px;
@@ -25,6 +28,7 @@
 .acer{
     @media screen {
         max-width: 1000px;
+        max-height: 700px;
     width: 370px;
     height: 330px;
     margin-left: 800px;
@@ -33,6 +37,7 @@
 }
 .acertext{ 
     @media screen {
+        max-height: 700px;
     max-width: 1000px;
     margin-top: -300px;
     margin-left: 800px;
@@ -40,6 +45,7 @@
 }
 .acerbuy{
     @media screen {
+        max-height: 700px;
         max-width: 1000px;
     margin-top: -60px ;
     margin-left: 820px;
@@ -47,6 +53,7 @@
 }
 .asus{
     @media screen {
+        max-height: 700px;
         max-width: 2000px;
     width: 400px;
     height: 300px;
@@ -57,6 +64,7 @@
 }
 .asustext{
     @media screen {
+        max-height: 700px;
         max-width: 2000px;
     margin-top: -270px;
     margin-left: 1550px;
@@ -64,6 +72,7 @@
 }
 .asusbuy{
     @media screen {
+        max-height: 700px;
         max-width: 2000px;
     margin-top: -60px;
     margin-left: 1570px;
@@ -71,6 +80,7 @@
 }
 .hpmon{
     @media screen {
+        max-height: 700px;
         max-width: 2000px;
     margin-top: 300px;
     margin-left: 150px;
@@ -78,6 +88,7 @@
 }
 .acermon{
     @media screen {
+        max-height: 700px;
         max-width: 2000px;
     margin-top: -170px;
     margin-left: 860px;
@@ -85,6 +96,7 @@
 }
 .asusmon{
     @media screen {
+        max-height: 700px;
         max-width: 2000px;
     margin-top: -170px;
     margin-left: 1470px;
@@ -92,6 +104,7 @@
 }
 .altext{
     @media screen {
+        max-height: 700px;
         max-width: 2000px;
     margin-top: -1000px;
     margin-left: 700px;
@@ -99,12 +112,14 @@
 }
 .alta{
     @media screen {
+        max-height: 700px;
         max-width: 2000px;
     margin-left: 700px;
 }
 }
 .mega{
     @media screen {
+        max-height: 700px;
         max-width: 2000px;
     margin-left: 950px;
     margin-top: -50px;
@@ -112,6 +127,7 @@
 }
 .mymarket{
     @media screen {
+        max-height: 700px;
         max-width: 2000px;
     margin-left: 1050px;
     margin-top: -70px;
@@ -119,6 +135,7 @@
 }
 .extra{
     @media screen {
+        max-height: 700px;
         max-width: 2000px;
     margin-top: -15px;
     margin-left: 700px;
@@ -126,12 +143,14 @@
 }
 .dabla{
     @media screen {
+        max-height: 700px;
         max-width: 2000px;
     margin-top: 750px;
 }
 }
 .git{
     @media screen {
+        max-height: 700px;
         max-width: 2000px;
     margin-top: 750px;
     margin-left: 1740px;
