@@ -1,0 +1,30 @@
+.goalogo{
+    font-size: 50px;
+    margin-top: 100px;
+    margin-left: 300px;
+}
+.Goapoto{
+    background: url(https://th.bing.com/th/id/OIP.aZWMw6D96KxJtW9KmK2GBQHaFS?rs=1&pid=ImgDetMain);
+    width: 400px;
+    height: 300px;
+    margin-left: 200px;
+
+}
+.intro{
+    font-size: 40px;
+    margin-top: -300px;
+    margin-left: 900px;
+}
+.intpoto{
+    width: 630px;
+    height: 400px;
+    margin-left: 900px;
+    background: url(https://scontent.ftbs5-3.fna.fbcdn.net/v/t39.30808-6/369807658_282830261166943_5354418554802378234_n.jpg?stp=dst-jpg_s600x600&_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFLsKB7uITolGsaqBoy89BInNL_KqD-laSc0v8qoP6VpEnhNkByhkgWvIOGARjXU26DgGK9HQV6DDW4cuT9dsxx&_nc_ohc=CBPkKqY6MP0Q7kNvgGed53a&_nc_ht=scontent.ftbs5-3.fna&oh=00_AYCMR7Q4DW2We62v5bxWZo2rdJ0yz4ijqamiIirlzj7_xg&oe=666FCCA8);
+}
+.about{
+    margin-top: 10px;
+    margin-left: 900px;
+}
+.contact{
+   margin-top: 220px;
+}
