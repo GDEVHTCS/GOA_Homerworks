@@ -1,48 +1,29 @@
-#დავალება 1
-for i in range(21):
-    print(i)   #ნატურალური რიცხვების დაბეჭდვა 0 იდან 20 ის ჩათვლით
+#დავალება პირველი
+print(130 < 10) #შეცდომები
+print(49 <= 13)
+name1 = 5
+name2 = 10
+print(name1 >= name2)
+print(49 == 132)
+print(100 >= 1003)
 
-#დავალება 2
-for i in range(10):
-    print(i)   #პირველი ათი ნატურალური რიცხვის დაბეჭდვა
+#სწორები
+print(50 > 13)
+print(13 >= 13)
+num1 = 51
+num2 = 14
+print(num1 > num2)
+print(110 != 13)
+print(12 <= 13)
 
-#დავალება 3
-for i in range(101):
-    if i % 2 == 0:
-        print(i)
-
-
-#დავალება 4
-num1 = float(input("enter number:")) #მომხმარებელი შემოიტანს რიცხვს
-if num1 > 0:
-     print('number is positive') #თუ რიცხვი დადებითია დაწერს რომ დადებითია
-elif num1 < 0:
-    print("number is negative") #თუ რიცხვი არარის დადებითი დაწერს რომ ნეგატიურია
-else:
-    print("number is zero") #სხვა შემთხვევაში თუ რიცხვს შემოიტანს ნულს მაშინ  დაწერს რომ ნულია
-
-#დავალება 5
-user_age = int(input("enter your age:")) #მომხმარებელი შემოიტანს ასაკს
-if user_age >= 18: 
-    print('you are adult') # თუ დაწერს 18ს ან მეტს ის არის სრულწლოვანი
-if user_age < 18:
-    print("you are virgin") #და თუ 18 ზე ნაკლებს ის არის არასრულწლოვანი
-
-#დავალება 6
-week = int(input("enter any week of the day:")) #მომხმარებელი შემოიტანს რიცხვს რის შედეგადაც მიიღებს კვირის დღეს 
-if week == 1:
-    print("Monday")  #კვირის დღეები განლაგებული რიცხვებით
-elif week == 2:
-    print("Tuesday")
-elif week == 3:
-    print("Wednesday")
-elif week == 4:
-    print("Thursday")
-elif week == 5:
-    print("Friday")
-elif week == 6:
-    print("Saturday")
-elif week == 7:
-    print("Sunday")
-else:
-    print("ERROR")
+#დავალება მეორე
+#or
+print(True or False)
+print(False or True)
+print(True or True)
+print(False or False)
+#and
+print(False and True)
+print(True and True)
+print(False and False)
+print(True and False)
