@@ -15,7 +15,7 @@ full_name  = first_name +" "+ last_name  #აქ შევქმენი ცვ
 print("me mqvia" + full_name)
 
 question1 = 150
-question2 =250
+question2 = 250
 print(question2 / question1)
 
 #რა არის სტრინგი:სტრინგი არის ნებისმიერი ტექსტი თუ რიცხვი რაც არის ბრჭალებში ჩაწერილი.
