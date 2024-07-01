@@ -51,7 +51,7 @@ else:
 
 #-2
 nam1 = input("Say Hello In Italian:")
-if nam1 == ("Ciao"):
+if nam1 == ("ciao"):
    print("Correct")
 else:
    print("wrong")

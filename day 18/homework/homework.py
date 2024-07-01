@@ -11,7 +11,7 @@ for num in numbers:
         negatives.append(num)  
 
 print("positive numbers:", positives)#დაიბეჭდოს ჩვეულიებრივი რიცხვები
-print("pegative numbers:", negatives)#დაიბეჭდოს მინუს რიცხვები
+print("negative numbers:", negatives)#დაიბეჭდოს მინუს რიცხვები
 
 #მეორე პროგრამა
 names = ["andria", "giorgi", "ani", "luka", "vache", "daviti"] #სახელების სია
@@ -22,7 +22,7 @@ for name in names:
     if name[0] == 'a':
         names_starting_with_a.append(name)
 
-print("Names starting with 'A':", names_starting_with_a) #დაბეჭდვა მხოლოდ a დან დაწყებულის
+print("Names starting with 'a':", names_starting_with_a) #დაბეჭდვა მხოლოდ a დან დაწყებულის
 
 #მესამე პროგრამა
 webdevlopment= ["html", "javascript", "css", 'saas','pyton' ]
